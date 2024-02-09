@@ -1,6 +1,6 @@
 # Karina Zawadzka - Portfolio - CSS GRID
 
-Live website:
+Live website: https://karinazz.github.io/karinazawadzka/
 
 Used icons: https://www.freepik.com https://devicon.dev <br>
 Random Pics generator: Lorem Picsum: https://picsum.photos <br>
